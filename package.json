@@ -7,7 +7,7 @@
         "type": "git",
         "url": "https://github.com/Neron-X5/parcel-react.git"
     },
-    "license": "ISC",
+    "license": "Unlicense",
     "keywords": [
         "parcel",
         "react",
